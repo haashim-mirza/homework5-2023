@@ -1,1 +1,1 @@
-<meta http-equiv="refresh" content="delay_time; URL=" />
+<meta http-equiv="refresh" content="delay_time; URL=flex.html" />
